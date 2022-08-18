@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>The honest guide to living and working abroad</description>
-	<lastBuildDate>Fri, 29 Jul 2022 08:45:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Aug 2022 10:17:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,9 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.1</generator>
 	<item>
+		<title>this is a new post</title>
+		<link>/this-is-a-new-post/</link>
+		
+		<dc:creator><![CDATA[al]]></dc:creator>
+		<pubDate>Thu, 18 Aug 2022 10:17:24 +0000</pubDate>
+				<category><![CDATA[The Podcast]]></category>
+		<guid isPermaLink="false">/?p=5171</guid>
+
+					<description><![CDATA[with stuffs]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Ep79: Everything we know about the Spanish Digital Nomad Visa so far</title>
 		<link>/ep79-everything-we-know-about-the-spanish-digital-nomad-visa-so-far/</link>
-					<comments>/ep79-everything-we-know-about-the-spanish-digital-nomad-visa-so-far/#respond</comments>
 		
 		<dc:creator><![CDATA[al]]></dc:creator>
 		<pubDate>Fri, 29 Jul 2022 08:45:42 +0000</pubDate>
@@ -35,15 +48,12 @@
 
 					<description><![CDATA[If you've ever wanted to live and work in Spain before, then you'll know it's tough if you're non-EU. However, Spain seems to be following in the footsteps of Portugal, Greece &#038; Croatia and introducing a Digital Nomad visa to allow anyone who is a &#8216;third country' native to live &#038; work in Spain. In ... <a title="Ep79: Everything we know about the Spanish Digital Nomad Visa so far" class="read-more" href="/ep79-everything-we-know-about-the-spanish-digital-nomad-visa-so-far/" aria-label="More on Ep79: Everything we know about the Spanish Digital Nomad Visa so far">Read more</a>]]></description>
 		
-					<wfw:commentRss>/ep79-everything-we-know-about-the-spanish-digital-nomad-visa-so-far/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>EP 78: Should you STORE your stuff or not&#8230;?</title>
 		<link>/ep-78-should-you-store-your-stuff-or-not/</link>
-					<comments>/ep-78-should-you-store-your-stuff-or-not/#respond</comments>
 		
 		<dc:creator><![CDATA[al]]></dc:creator>
 		<pubDate>Fri, 22 Jul 2022 08:40:00 +0000</pubDate>
@@ -55,15 +65,12 @@
 
 					<description><![CDATA[As you may have seen on Instagram, this week we unpacked our storage unit after 5 years, and out of 30+ boxes and loads of furniture&#8230; we kept one small box. So, join us as we set the scene and then explain how we felt unpacking all of our sh*t. NOTE: This is following our ... <a title="EP 78: Should you STORE your stuff or not&#8230;?" class="read-more" href="/ep-78-should-you-store-your-stuff-or-not/" aria-label="More on EP 78: Should you STORE your stuff or not&#8230;?">Read more</a>]]></description>
 		
-					<wfw:commentRss>/ep-78-should-you-store-your-stuff-or-not/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ep77: 13 ways the Spanish will KNOW you’re a tourist</title>
 		<link>/ep77-13-ways-the-spanish-will-know-youre-a-tourist/</link>
-					<comments>/ep77-13-ways-the-spanish-will-know-youre-a-tourist/#respond</comments>
 		
 		<dc:creator><![CDATA[al]]></dc:creator>
 		<pubDate>Fri, 15 Jul 2022 07:15:54 +0000</pubDate>
@@ -77,15 +84,12 @@
 
 					<description><![CDATA[Want to live like a local in Spain? We've spent almost 6 years living in Spain, and today we identify 13 things that tourists do, that the Spanish would never! As ever, we focus mainly on bars and restaurants, and we'll show you the 13 things we've learnt that will instantly identify you as a ... <a title="Ep77: 13 ways the Spanish will KNOW you’re a tourist" class="read-more" href="/ep77-13-ways-the-spanish-will-know-youre-a-tourist/" aria-label="More on Ep77: 13 ways the Spanish will KNOW you’re a tourist">Read more</a>]]></description>
 		
-					<wfw:commentRss>/ep77-13-ways-the-spanish-will-know-youre-a-tourist/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ep76: Meet Julianne, an ex-pat mother who has written a book</title>
 		<link>/ep76-meet-julianne-an-ex-pat-mother-who-has-written-a-book/</link>
-					<comments>/ep76-meet-julianne-an-ex-pat-mother-who-has-written-a-book/#respond</comments>
 		
 		<dc:creator><![CDATA[al]]></dc:creator>
 		<pubDate>Fri, 08 Jul 2022 08:33:00 +0000</pubDate>
@@ -98,15 +102,12 @@
 
 					<description><![CDATA[In this episode, we meet Julianne Bosch (pronounced &#8216;Bosk') who has travelled the world as a wife (to a fancy jet-setting, Spanish-speaking businessman) and mother (to 3 cool kids who speak loads of languages). Regular listeners will know that we don't have (nor do we want!) kids, so we always jump at the chance of ... <a title="Ep76: Meet Julianne, an ex-pat mother who has written a book" class="read-more" href="/ep76-meet-julianne-an-ex-pat-mother-who-has-written-a-book/" aria-label="More on Ep76: Meet Julianne, an ex-pat mother who has written a book">Read more</a>]]></description>
 		
-					<wfw:commentRss>/ep76-meet-julianne-an-ex-pat-mother-who-has-written-a-book/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ep75: 7 lessons from going back to our home country</title>
 		<link>/ep75-7-lessons-from-going-back-to-our-home-country/</link>
-					<comments>/ep75-7-lessons-from-going-back-to-our-home-country/#respond</comments>
 		
 		<dc:creator><![CDATA[al]]></dc:creator>
 		<pubDate>Sat, 02 Jul 2022 08:31:00 +0000</pubDate>
@@ -118,15 +119,12 @@
 
 					<description><![CDATA[We've had a short break, as we both went back to the UK for 3 weeks. We hadn't seen some of our friends or family for 2 and half years, so although it was brilliant, we did learn 7 important lessons. I think it underlined WHY we still want to live and work abroad. Enjoy! ... <a title="Ep75: 7 lessons from going back to our home country" class="read-more" href="/ep75-7-lessons-from-going-back-to-our-home-country/" aria-label="More on Ep75: 7 lessons from going back to our home country">Read more</a>]]></description>
 		
-					<wfw:commentRss>/ep75-7-lessons-from-going-back-to-our-home-country/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ep74: Living &#038; working abroad in Split, Croatia &#8211; Everything we know so far</title>
 		<link>/ep74-living-working-abroad-in-split-croatia-everything-we-know-so-far/</link>
-					<comments>/ep74-living-working-abroad-in-split-croatia-everything-we-know-so-far/#respond</comments>
 		
 		<dc:creator><![CDATA[al]]></dc:creator>
 		<pubDate>Sat, 14 May 2022 08:29:00 +0000</pubDate>
@@ -139,15 +137,12 @@
 
 					<description><![CDATA[In this episode, we talk about the last 7 weeks where we've been living and working in Split, Croatia. We talk about the areas we liked (and those we didn't), the general cost of things (including rent), and Lea brings back the Factoids segment with some facts about Split. NOTE: This is following our new ... <a title="Ep74: Living &#038; working abroad in Split, Croatia &#8211; Everything we know so far" class="read-more" href="/ep74-living-working-abroad-in-split-croatia-everything-we-know-so-far/" aria-label="More on Ep74: Living &#038; working abroad in Split, Croatia &#8211; Everything we know so far">Read more</a>]]></description>
 		
-					<wfw:commentRss>/ep74-living-working-abroad-in-split-croatia-everything-we-know-so-far/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ep73:  Living abroad as a couple (without stabbing them in their sleep)</title>
 		<link>/ep73-living-abroad-as-a-couple-without-stabbing-them-in-their-sleep/</link>
-					<comments>/ep73-living-abroad-as-a-couple-without-stabbing-them-in-their-sleep/#respond</comments>
 		
 		<dc:creator><![CDATA[al]]></dc:creator>
 		<pubDate>Sat, 30 Apr 2022 10:42:33 +0000</pubDate>
@@ -156,15 +151,12 @@
 
 					<description><![CDATA[In this episode, we reflect on how we've lived &#038; worked together as a couple for almost 10 years, without having (too many) arguments. We outline the 7 principles and hacks that ensure we stay sane and happy. NOTE: This is following our new format of podcast episodes that are either about: WHY you want ... <a title="Ep73:  Living abroad as a couple (without stabbing them in their sleep)" class="read-more" href="/ep73-living-abroad-as-a-couple-without-stabbing-them-in-their-sleep/" aria-label="More on Ep73:  Living abroad as a couple (without stabbing them in their sleep)">Read more</a>]]></description>
 		
-					<wfw:commentRss>/ep73-living-abroad-as-a-couple-without-stabbing-them-in-their-sleep/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ep72: The mindset you need to live &#038; work abroad</title>
 		<link>/ep72-the-mindset-you-need-to-live-work-abroad/</link>
-					<comments>/ep72-the-mindset-you-need-to-live-work-abroad/#respond</comments>
 		
 		<dc:creator><![CDATA[al]]></dc:creator>
 		<pubDate>Fri, 22 Apr 2022 15:32:17 +0000</pubDate>
@@ -173,15 +165,12 @@
 
 					<description><![CDATA[In this episode, we talk to the amazing Mayaan &#038; Gal from Smoozitive who specialise in helping people take that first scary step from comfortable home life to a strange, exciting and brand new world as a Nomad or Ex-pat. Join us as we talk about belonging, making friends, reverse ex-patting (where you go back ... <a title="Ep72: The mindset you need to live &#038; work abroad" class="read-more" href="/ep72-the-mindset-you-need-to-live-work-abroad/" aria-label="More on Ep72: The mindset you need to live &#038; work abroad">Read more</a>]]></description>
 		
-					<wfw:commentRss>/ep72-the-mindset-you-need-to-live-work-abroad/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ep 71: Why you need &#8216;boots on the ground&#8217; before committing to a rental property</title>
 		<link>/ep-71-why-you-need-boots-on-the-ground-before-committing-to-a-rental-property/</link>
-					<comments>/ep-71-why-you-need-boots-on-the-ground-before-committing-to-a-rental-property/#respond</comments>
 		
 		<dc:creator><![CDATA[al]]></dc:creator>
 		<pubDate>Sat, 16 Apr 2022 13:56:44 +0000</pubDate>
@@ -190,26 +179,6 @@
 
 					<description><![CDATA[We've recently fucked up a bit.&#160; We normally do quite a bit of research on the area we're going to live before committing to a longer (3 weeks or more) rental, but this time we did not, and it's bitten us in the arse (quite literally for our poor dog peanut who was attacked this ... <a title="Ep 71: Why you need &#8216;boots on the ground&#8217; before committing to a rental property" class="read-more" href="/ep-71-why-you-need-boots-on-the-ground-before-committing-to-a-rental-property/" aria-label="More on Ep 71: Why you need &#8216;boots on the ground&#8217; before committing to a rental property">Read more</a>]]></description>
 		
-					<wfw:commentRss>/ep-71-why-you-need-boots-on-the-ground-before-committing-to-a-rental-property/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Ep 70: A roadmap for living and working abroad</title>
-		<link>/ep-70-a-roadmap-for-living-and-working-abroad/</link>
-					<comments>/ep-70-a-roadmap-for-living-and-working-abroad/#respond</comments>
-		
-		<dc:creator><![CDATA[al]]></dc:creator>
-		<pubDate>Mon, 11 Apr 2022 07:23:35 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<category><![CDATA[The Podcast]]></category>
-		<guid isPermaLink="false">https://asidewayslife.com/?p=5106</guid>
-
-					<description><![CDATA[Transcription Please note, that this transcription is automatically created, so it may not be perfect! AlHello and welcome to a Sideways Life podcast. This is episode 70. I'm out. LeanneI'm Leanne. AlAnd hello. Welcome back. Well, I suppose we say welcome back to Us, haven't we? LeanneWelcome back, Al. AlWelcome back. Leanne. Even though I've ... <a title="Ep 70: A roadmap for living and working abroad" class="read-more" href="/ep-70-a-roadmap-for-living-and-working-abroad/" aria-label="More on Ep 70: A roadmap for living and working abroad">Read more</a>]]></description>
-		
-					<wfw:commentRss>/ep-70-a-roadmap-for-living-and-working-abroad/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
