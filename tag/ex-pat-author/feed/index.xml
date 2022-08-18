@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ex-pat author &#8211; A Sideways Life</title>
+	<atom:link href="http://localhost/tag/ex-pat-author/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>The honest guide to living and working abroad</description>
+	<lastBuildDate>Fri, 08 Jul 2022 08:33:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+	<item>
+		<title>Ep76: Meet Julianne, an ex-pat mother who has written a book</title>
+		<link>/ep76-meet-julianne-an-ex-pat-mother-who-has-written-a-book/</link>
+					<comments>/ep76-meet-julianne-an-ex-pat-mother-who-has-written-a-book/#respond</comments>
+		
+		<dc:creator><![CDATA[al]]></dc:creator>
+		<pubDate>Fri, 08 Jul 2022 08:33:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[The Podcast]]></category>
+		<category><![CDATA[Ex-pat]]></category>
+		<category><![CDATA[Ex-pat author]]></category>
+		<category><![CDATA[Ex-pat Mom]]></category>
+		<guid isPermaLink="false">https://asidewayslife.com/?p=5130</guid>
+
+					<description><![CDATA[In this episode, we meet Julianne Bosch (pronounced &#8216;Bosk') who has travelled the world as a wife (to a fancy jet-setting, Spanish-speaking businessman) and mother (to 3 cool kids who speak loads of languages). Regular listeners will know that we don't have (nor do we want!) kids, so we always jump at the chance of ... <a title="Ep76: Meet Julianne, an ex-pat mother who has written a book" class="read-more" href="/ep76-meet-julianne-an-ex-pat-mother-who-has-written-a-book/" aria-label="More on Ep76: Meet Julianne, an ex-pat mother who has written a book">Read more</a>]]></description>
+		
+					<wfw:commentRss>/ep76-meet-julianne-an-ex-pat-mother-who-has-written-a-book/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
